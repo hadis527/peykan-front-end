@@ -1,0 +1,6 @@
+export const GET_PROFILE_INFO = 'GET_PROFILE_INFO';
+export const UPDATE_PROFILE_INFO = 'UPDATE_PROFILE_INFO';
+
+
+
+

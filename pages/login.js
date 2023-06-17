@@ -1,6 +1,6 @@
 import React from 'react';
 import Login from '../components/LoginForm';
-
+import '../app/globals.css'
 
 const LoginForm = () => {
 
